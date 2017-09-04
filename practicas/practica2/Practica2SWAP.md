@@ -42,7 +42,7 @@ Para ello, primero debemos generar una contraseña ssh en nuestra máquina princ
 $ ssh-keygen -b 4096 -t rsa
 ```
 
-![img5]
+! [img5]
 
 Tras haber hecho ésto, nos aparecerán unas instrucciones que, personalmente, he dejado en blanco tal y como dice en el guión de la práctica.
 
